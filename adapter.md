@@ -1,6 +1,6 @@
 # Adapter
 ## Parameter-Efficient Transfer Learning for NLP [[PDF]](https://arxiv.org/pdf/1902.00751.pdf) [[code]](https://github.com/google-research/adapter-bert)
-- motivation: fine-tuning is parameter inefficient: an entire new model is required for every task.
+- Motivation: fine-tuning is parameter inefficient: an entire new model is required for every task.
 - As an alternative, we
 propose transfer with adapter modules. Adapter
 modules yield a **compact and extensible** model;
